@@ -1,5 +1,5 @@
 # PORTIFOLIO-DEV
-<h1 align="center">Oi 👋,Eu Sou O Jotta Dev</h1>
+<h1 align="center">Oi 👋,Eu Sou O João Dev</h1>
 <h3 align="center">Cientista da Computação | Tecnologia, Inovação e Código</h3>
 
 - 🔭 Atualmente estou trabalhando com desenvolvimento web [Portifolio Dev](https://github.com/JottaDev00)
@@ -8,7 +8,7 @@
 
 - 👯 Também estou colaborando com projetos e códigos na área de Transportes [JS ESCOLTA E LOGISTICA](https://jsescoltalogistica.com/)
 
-- 💬 pergunte sobre **Excel, Java, Java Script, HTML, Css e Python**
+- 💬  Me pergunte sobre **Excel, Java, Java Script, HTML, Css e Python**
 
 - 📫 Você me acha através do e-mail **joao.compiler@gmail.com**
 
