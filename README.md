@@ -6,9 +6,9 @@
 
 - 🌱Atualmete estou aprendendo **Java, Java Script e Python**
 
-- 👯 Também estou colaboro com projetos e códigos na área de Transportes [JS ESCOLTA E LOGISTICA](https://jsescoltalogistica.com/)
+- 👯 Também estou colaborando com projetos e códigos na área de Transportes [JS ESCOLTA E LOGISTICA](https://jsescoltalogistica.com/)
 
-- 💬 Me pergunte sobre **Excel, Java, Java Script, HTML, Css e Python**
+- 💬 pergunte sobre **Excel, Java, Java Script, HTML, Css e Python**
 
 - 📫 Você me acha através do e-mail **joao.compiler@gmail.com**
 
