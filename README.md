@@ -14,7 +14,7 @@
 
 - 📄 Aqui estão algumas das minhas habilidades [www.linkedin.com/in/ joão-victor-388a9536b](www.linkedin.com/in/ joão-victor-388a9536b)
 
-<h3 align="left">Conecte-se com eu:</h3>
+<h3 align="left">Conecte-se comigo :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ joão-victor-388a9536b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ joão-victor-388a9536b" height="30" width="40" /></a>
 <a href="https://instagram.com/@jv.szz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@jv.szz" height="30" width="40" /></a>
